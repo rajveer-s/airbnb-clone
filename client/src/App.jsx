@@ -1,10 +1,9 @@
-
+import './index.css';
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <div>hello</div>
+    <h3 className="bg-red-500">hello</h3>
   )
 }
 
